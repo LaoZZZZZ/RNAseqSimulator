@@ -1,0 +1,3 @@
+directory:/home/luzhao/calr_analysis/samfile/
+target:THR104.sam
+genome:hello

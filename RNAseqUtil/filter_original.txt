@@ -1,0 +1,3 @@
+directory:/home/luzhao/calr_analysis/unmapped/
+target:THR100:THR103
+genome:/home/luzhao/calr_analysis/chomo/calr

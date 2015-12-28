@@ -1,0 +1,2 @@
+directory:/home/luzhao/calr_analysis/region_mapped
+target:THR100:THR103:THR104

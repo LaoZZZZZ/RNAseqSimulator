@@ -1,0 +1,3 @@
+subject:kmers for left object
+body:attached!
+attachment:../mapped/mrna.mut:../mapped/mrna.supp

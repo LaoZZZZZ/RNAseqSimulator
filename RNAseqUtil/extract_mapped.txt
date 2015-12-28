@@ -1,0 +1,2 @@
+directory:/home/stc/Documents/GenomicData/RNAseq/WBahou
+target:THR100:THR104:THR103

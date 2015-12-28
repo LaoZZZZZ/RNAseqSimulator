@@ -1,0 +1,2 @@
+directory:/home/luzhao/calr_analysis/unmapped
+target:THR100:THR103:THR104

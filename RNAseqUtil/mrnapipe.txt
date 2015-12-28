@@ -1,0 +1,3 @@
+directory:/home/luzhao/THR104_analysis
+target:THR116
+genome:/home/luzhao/THR104_analysis/chromo

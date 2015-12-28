@@ -1,0 +1,2 @@
+/home/luzhao/calr_analysis/samfile/THR100.sam
+/home/luzhao/calr_analysis/region_mapped/THR100.sam

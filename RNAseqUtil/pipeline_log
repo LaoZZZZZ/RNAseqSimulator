@@ -1,0 +1,7 @@
+pipeline_log
+tar: pipeline_log: file changed as we read it
+samtools view /home/stc/Documents/GenomicData/RNAseq/WBahou/THR104/THR104_accepted_hits.bam > /home/luzhao/THR104_analysis/samfile/THR104.sam
+(552, '5.7.0 This message was blocked because its content presents a potential\n5.7.0 security issue. Please visit\n5.7.0 http://support.google.com/mail/bin/answer.py?answer=6590 to review our\n5.7.0 message content and attachment content guidelines. 60sm3415697qgr.29 - gsmtp')
+Error: unable to send email
+Main thread exit
+

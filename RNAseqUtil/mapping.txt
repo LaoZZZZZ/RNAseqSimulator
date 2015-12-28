@@ -1,0 +1,3 @@
+directory:/home/stc/Documents/GenomicData/RNAseq/WBahou/
+target:THR104
+genome:/home/luzhao/THR104_analysis/chromo/index/mrna

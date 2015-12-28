@@ -1,0 +1,22 @@
+mapping
+('/home/stc/Documents/GenomicData/RNAseq/WBahou/', '/home/luzhao/THR104_analysis/chromo/index/mrna', ['THR104'])
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_TIME = "en_US.ISO8859-1",
+	LC_CTYPE = "en_US.ISO8859-1",
+	LC_MONETARY = "en_US.ISO8859-1",
+	LC_COLLATE = "en_US.ISO8859-1",
+	LC_MESSAGES = "C",
+	LC_NUMERIC = "en_US.ISO8859-1",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+106840377 reads; of these:
+  106840377 (100.00%) were unpaired; of these:
+    46292361 (43.33%) aligned 0 times
+    22102063 (20.69%) aligned exactly 1 time
+    38445953 (35.98%) aligned >1 times
+56.67% overall alignment rate
+bowtie2 -N 1 --no-unal --no-hd  -p 2  -k 20 /home/luzhao/THR104_analysis/chromo/index/mrna -U  /home/stc/Documents/GenomicData/RNAseq/WBahou/THR104/THR104_sequence.gz, -S /home/luzhao/multipleHits/THR104.sam --un /home/luzhao/multipleHits/THR104_unmapped.fq

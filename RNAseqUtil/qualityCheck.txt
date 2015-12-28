@@ -1,0 +1,4 @@
+directory:/home/stc/Documents/GenomicData/RNAseq/WBahou
+target:N084
+genome:hello
+outputdir:/home/luzhao/THR104_analysis/quality

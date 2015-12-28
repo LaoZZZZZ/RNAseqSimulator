@@ -1,0 +1,15 @@
+nohup: ignoring input
+{'ET': ['THR100', 'THR101', 'THR102', 'THR104', 'THR116', 'THR136', 'THR137'], 'normal': ['A019', 'A023', 'N084', 'THR039', 'THR053']}
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR101_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR101_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR101_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR100_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR100_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR100_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR102_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR102_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR102_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR104_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR104_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR104_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR053_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR053_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR053_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR116_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR116_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR116_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/N084_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/N084_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/N084_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR039_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR039_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR039_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR137_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR137_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR137_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/A019_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/A019_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/A019_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR136_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR136_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/THR136_small.norm')
+('/home/luzhao/THR104_analysis/finalmutation/possible_mutations/A023_small.csv', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/A023_small.supp', '/home/luzhao/THR104_analysis/finalmutation/possible_mutations/A023_small.norm')
+finish the extracting the all alignments

@@ -1,0 +1,3 @@
+genome:/home/luzhao/calr_analysis/chromo/chr.fa
+output:/home/luzhao/calr_analysis/kmer/chr_diffcoding.kmer
+klen:23

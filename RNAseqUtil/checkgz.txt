@@ -1,0 +1,3 @@
+directory:/home/stc/Documents/GenomicData/RNAseq/WBahou/THR039
+target:THR039_sequence.gz
+genome:hello

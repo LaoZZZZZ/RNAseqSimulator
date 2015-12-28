@@ -1,0 +1,16 @@
+nohup: ignoring input
+{'ET': ['THR100', 'THR101', 'THR102', 'THR104', 'THR116', 'THR136', 'THR137'], 'normal': ['A019', 'A023', 'N084', 'THR039', 'THR053']}
+('/home/luzhao/THR104_analysis/finalmutation/mutation_common_except_normal.csv', '/home/luzhao/THR104_analysis/finalmutation/mutation_common_except_normal.supp', '/home/luzhao/THR104_analysis/finalmutation/mutation_common_except_normal.norm')
+('THR137', '/home/luzhao/THR104_analysis/all_alignment/THR137', '/home/luzhao/THR104_analysis/suppAlignment/THR137')
+('A023', '/home/luzhao/THR104_analysis/all_alignment/A023', '/home/luzhao/THR104_analysis/suppAlignment/A023')
+('N084', '/home/luzhao/THR104_analysis/all_alignment/N084', '/home/luzhao/THR104_analysis/suppAlignment/N084')
+('THR101', '/home/luzhao/THR104_analysis/all_alignment/THR101', '/home/luzhao/THR104_analysis/suppAlignment/THR101')
+('THR100', '/home/luzhao/THR104_analysis/all_alignment/THR100', '/home/luzhao/THR104_analysis/suppAlignment/THR100')
+('A019', '/home/luzhao/THR104_analysis/all_alignment/A019', '/home/luzhao/THR104_analysis/suppAlignment/A019')
+('THR102', '/home/luzhao/THR104_analysis/all_alignment/THR102', '/home/luzhao/THR104_analysis/suppAlignment/THR102')
+('THR104', '/home/luzhao/THR104_analysis/all_alignment/THR104', '/home/luzhao/THR104_analysis/suppAlignment/THR104')
+('THR136', '/home/luzhao/THR104_analysis/all_alignment/THR136', '/home/luzhao/THR104_analysis/suppAlignment/THR136')
+('THR039', '/home/luzhao/THR104_analysis/all_alignment/THR039', '/home/luzhao/THR104_analysis/suppAlignment/THR039')
+('THR053', '/home/luzhao/THR104_analysis/all_alignment/THR053', '/home/luzhao/THR104_analysis/suppAlignment/THR053')
+('THR116', '/home/luzhao/THR104_analysis/all_alignment/THR116', '/home/luzhao/THR104_analysis/suppAlignment/THR116')
+finish the extracting the all alignments

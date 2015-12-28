@@ -1,0 +1,5 @@
+directory:/home/stc/Documents/GenomicData/RNAseq/WBahou/
+target:THR039
+options: -p 8  
+output:/home/luzhao/calr_analysis/tophat
+genome:/home/stc/Documents/GenomicData/genomes/hg19/bowtieinx/hg19
